@@ -1,0 +1,5 @@
+labels:
+  0: Arduino_Nano
+  1: Heltec_ESP32_Lora
+  2: ESP8266
+  3: Raspberry_Pi_3
