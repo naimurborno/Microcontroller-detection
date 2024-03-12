@@ -17,3 +17,8 @@ The project leverages MobileNetV2 for microcontroller detection, providing a Str
 2.** Install dependencies **
 ```bash
 pip install -r requirements.txt
+
+3. ** Run the App **
+```bash
+streamlit run app.py
+
